@@ -1,0 +1,29 @@
+body{
+  background: #292f3c;
+  color: #333;
+}
+
+.container {
+  margin-top: 1rem;
+  background: #fff;
+  min-height: 96vh;
+  max-width: 600px;
+  border-radius: .25rem;
+}
+
+h2 {
+  text-align: center;
+}
+
+.btn {
+  width: 100%;
+}
+
+ul {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+ul li {
+  padding-bottom: .5rem;
+}
