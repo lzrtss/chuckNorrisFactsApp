@@ -1,5 +1,5 @@
-import { ViewApp } from '/app/views/ViewApp.js';
-import { ModelApp } from '/app/models/ModelApp.js';
+import { ViewApp } from '../views/ViewApp.js';
+import { ModelApp } from '../models/ModelApp.js';
 
 export class ControllerApp {
   constructor() {
