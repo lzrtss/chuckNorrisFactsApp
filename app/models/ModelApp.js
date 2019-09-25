@@ -1,7 +1,7 @@
 export class ModelApp {
   constructor(contr) {
     this.controller = contr;
-    this.api = 'http://api.icndb.com/jokes/random/';
+    this.api = 'https://api.icndb.com/jokes/random/';
     this.facts = [];
   }
 
